@@ -1,0 +1,17 @@
+.navigation .horizontal-line {
+  display: none;
+}
+@media (min-width: 1366px) {
+  .navigation .horizontal-line {
+    display: block;
+    width: 100%;
+  }
+}
+.navigation .nav-list {
+  background-color: blue;
+}
+@media (min-width: 768px) {
+  .navigation .nav-btns {
+    display: none;
+  }
+}/*# sourceMappingURL=navigation.css.map */
